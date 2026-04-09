@@ -6,7 +6,7 @@
 - 🔭 Estou atualmente aprimorando meus conhecimentos em Python
 - 🌱 Estou aprendendo a linguagem C
 - 💻 Skills: UX/UI, Front-end, Python, C  
-- 🌍 Location: São Paulo, Brazil  
+- 🌍 Localização: São Paulo, Brazil  
 
 ---
 
@@ -26,4 +26,4 @@ https://github-readme-stats-ad9h8rp6t-marianaheloisacs-projects.vercel.app/api?u
 
 - ✉️ Email:  marianaheloisa.c@usp.br 
 - 🔗 [LinkedIn](https://www.linkedin.com/in/MarianaheloisaC)  
-- 🔗 [Portfolio](https://seu-portfolio.com)
+- 🔗 [Portfolio]()
