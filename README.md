@@ -7,6 +7,9 @@
 - 🌱 Estou aprendendo a linguagem C
 - 💻 Skills: UX/UI, Front-end, Python, C  
 - 🌍 Localização: São Paulo, Brazil  
+[X] Iniciei o curso de HTML
+[ ] Markdown
+[X] Fazendo Branches 
 
 ---
 
