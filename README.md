@@ -16,19 +16,13 @@
 
 ---
 
-## 📝 Top Languages
+## 📝 Fluências
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MarianaheloisaC&layout=compact&theme=tokyonight&hide_border=true)
 
 ---
 
-## 💡 Fun Fact
-
-> “Aprender é acumular experiências, projetar é transformar ideias em realidade.”  
-
----
-
-## 📫 Contact
+## 📫 Contato
 
 - ✉️ Email:  marianaheloisa.c@usp.br 
 - 🔗 [LinkedIn](https://www.linkedin.com/in/MarianaheloisaC)  
