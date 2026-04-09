@@ -12,13 +12,13 @@
 
 ## 📊 GitHub Stats
 
-https://github-readme-stats-ad9h8rp6t-marianaheloisacs-projects.vercel.app/api?username=MarianaheloisaC&show_icons=true&theme=tokyonight&hide_border=true
+(![GitHub Stats](https://github-readme-stats-six-eta-12.vercel.app/api?username=MarianaheloisaC&show_icons=true&theme=tokyonight&hide_border=true)
 
 ---
 
 ## 📝 Fluências
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MarianaheloisaC&layout=compact&theme=tokyonight&hide_border=true)
+![Top Languages](https://github-readme-stats-six-eta-12.vercel.app/api/top-langs/?username=MarianaheloisaC&layout=compact&theme=tokyonight&hide_border=true)
 
 ---
 
