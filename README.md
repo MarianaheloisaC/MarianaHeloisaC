@@ -26,6 +26,9 @@
 
 ---
 
+## 📄 Currículo
+- 🔗 [Meu Currículo](./Curriculo%20Mariana%20Heloisa%20Campanha.pdf)
+---
 ## 📫 Contato
 
 <div> 
@@ -37,5 +40,3 @@
   
 </div>
 
-
-- 🔗 [Meu Currículo](./Curriculo%20Mariana%20Heloisa%20Campanha.pdf)
