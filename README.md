@@ -38,4 +38,4 @@
 </div>
 
 
-- 🔗 [Meu Currículo](./Curriculo Mariana Heloisa Campanha.pdf)
+- 🔗 [Meu Currículo](./Curriculo%20Mariana%20Heloisa%20Campanha.pdf)
