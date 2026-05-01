@@ -1,5 +1,4 @@
 # Hii, I'm Mariana Heloisa 🌻
---- 
 
 ## ✨ _About Me_ ✨ 
 I'm Mariana, a 23-year-old Information Systems student @ USP passionate about technology and creativity.
@@ -31,6 +30,8 @@ Full-Stack Development, UX/UI Design and Artificial Intelligence.
 <img alt="JavaScript" height="60" width="60" src="https://github.com/gui-bus/TechIcons/blob/2f0a8949c67d9dc8dadf1c31bd7dc62fe966901f/Dark/Javascript.svg">
 </div>
 
+[icons]:https://github.com/gui-bus/TechIcons/blob/main/Dark/Canva.svg
+
 ---
 
 ##  📊 Github Stats & 📝 Fluências
@@ -41,6 +42,7 @@ Full-Stack Development, UX/UI Design and Artificial Intelligence.
 ![Top Languages](https://github-readme-stats-six-eta-12.vercel.app/api/top-langs/?username=MarianaheloisaC&layout=compact&theme=tokyonight&hide_border=true)
 
 </div>
+
 ---
 
 ## 📄 Currículo 
